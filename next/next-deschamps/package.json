@@ -1,0 +1,16 @@
+{
+  "name": "next-deschamps",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "repository": "https://github.com/cesarhilario/next-deschamps.git",
+  "author": "Cesar Hilario <cesar.hilario.dev@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "next": "^10.0.8",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  }
+}
